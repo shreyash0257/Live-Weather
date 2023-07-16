@@ -2,8 +2,9 @@
 
 Shows live weather of a place.
 
-![Screenshot_20230716-161507 (1)](https://github.com/shreyash0257/Live-Weather/assets/98897735/34f30e55-6e8a-4141-9ac6-3a12e940d38a)
-
+![Screenshot_20230716-161507 (2)](https://github.com/shreyash0257/Live-Weather/assets/98897735/cca43962-9e43-4d6d-ab74-a14560f8ccbe)
+![Screenshot_20230716-161538](https://github.com/shreyash0257/Live-Weather/assets/98897735/2cb67a76-a5f5-44dd-81c1-2d46c7d6d434)
+![Screenshot_20230716-161544](https://github.com/shreyash0257/Live-Weather/assets/98897735/16b0d34d-88a4-4dba-9722-bb735ea5d385)
 
 
 created for learning purposes
