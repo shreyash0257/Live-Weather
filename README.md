@@ -1,7 +1,8 @@
 # live_weather
 
 Shows live weather of a place.
-![Screenshot_20230716-161507](https://github.com/shreyash0257/Live-Weather/assets/98897735/aae913f0-7d0f-4464-8072-c6b09837ac54)
+
+![Screenshot_20230716-161507 (1)](https://github.com/shreyash0257/Live-Weather/assets/98897735/34f30e55-6e8a-4141-9ac6-3a12e940d38a)
 
 
 
